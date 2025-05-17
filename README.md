@@ -1,6 +1,3 @@
-# linux-command-cheatsheet
-
-
 # 🐧 Linux Commands Cheatsheet (Basic to Advanced)
 
 ## 📁 File and Directory Operations
